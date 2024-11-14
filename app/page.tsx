@@ -128,7 +128,7 @@ export default function Home() {
                         ?.scrollIntoView({ behavior: "smooth" })
                     }
                   >
-                    Explore Features
+                    Explore Features 
                   </Button>
                 </div>
               </motion.div>
